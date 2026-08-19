@@ -1,7 +1,7 @@
 # Hi, I'm Aadith 👋
 
-🎓 Computer Science Graduate  
-🤖 Aspiring AI/ML Engineer  
+🎓 Computer Science Graduate
+🤖 Aspiring AI/ML Engineer
 🐍 Python | 📊 Data Science | 🧠 Machine Learning | 🚀 GenAI
 
 Currently learning, building, and experimenting with AI/ML projects.
@@ -14,6 +14,4 @@ Currently learning, building, and experimenting with AI/ML projects.
 
 **Learn → Build → Deploy → Grow 🚀**
 
-### 📈 Contributions
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/Aadith47)
+<img src="./coding.png" width="100%" alt="Coding illustration">
