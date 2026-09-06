@@ -1,6 +1,6 @@
 # Hi, I'm Aadith 👋
 
-### 🎓 Computer Science Graduate | 🤖 Aspiring AI/ML Engineer
+### 🎓 Information Technology Graduate | 🤖 Aspiring AI/ML Engineer
 
 Passionate about **AI, Machine Learning, Data Science & Generative AI**.  
 Currently learning, building, and experimenting with AI/ML projects.
