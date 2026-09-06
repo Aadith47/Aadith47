@@ -7,6 +7,12 @@ Currently learning, building, and experimenting with AI/ML projects.
 
 ---
 
+## 🚀 Currently Learning
+
+**Python → Data Science → Machine Learning → Deep Learning → Generative AI**
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -16,35 +22,12 @@ Currently learning, building, and experimenting with AI/ML projects.
 ---
 ## 🛠️ Tech Stack
 
-💻 Programming & Data
-
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sql" /> </p>
-
-🤖 Machine Learning & Deep Learning
-
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sql" /> </p
 <p align="center"> <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" /> </p>
-
-📊 Data Visualization
-
 <p align="center"> <img src="https://skillicons.dev/icons?i=matplotlib" /> </p>
-
-🧠 AI & Generative AI
-
 <p align="center"> <img src="https://skillicons.dev/icons?i=huggingface" /> </p>
-
-👁️ Computer Vision
-
 <p align="center"> <img src="https://skillicons.dev/icons?i=opencv" /> </p>
-
-🔧 Tools & Development
-
 <p align="center"> <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker" /> </p>
-
----
-
-## 🚀 Currently Learning
-
-**Python → Data Science → Machine Learning → Deep Learning → Generative AI**
 
 ---
 
