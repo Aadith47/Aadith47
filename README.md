@@ -29,10 +29,10 @@ Currently learning, building, and experimenting with AI/ML projects.
       <img src="https://skillicons.dev/icons?i=python" width="50">
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=numpy" width="50">
+      <img src="https://skillicons.dev/icons?i=opencv" width="50">
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=pandas" width="50">
+      <img src="https://skillicons.dev/icons?i=docker" width="50">
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=mysql" width="50">
