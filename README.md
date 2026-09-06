@@ -13,6 +13,12 @@ Currently learning, building, and experimenting with AI/ML projects.
 
 ---
 
+## 🎯 Goal
+
+**Learn → Build → Deploy → Grow**
+
+---
+
 ## 🛠️ Tech Stack
 
 <table align="center">
@@ -48,12 +54,6 @@ Currently learning, building, and experimenting with AI/ML projects.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
 </p>
-
----
-
-## 🎯 Goal
-
-**Learn → Build → Deploy → Grow**
 
 ---
 
