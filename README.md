@@ -13,14 +13,6 @@ Currently learning, building, and experimenting with AI/ML projects.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 <table align="center">
@@ -47,29 +39,15 @@ Currently learning, building, and experimenting with AI/ML projects.
       <img src="https://skillicons.dev/icons?i=pytorch" width="50">
     </td>
   </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=matplotlib" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=huggingface" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=opencv" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="50">
-    </td>
-    <td></td>
-  </tr>
 </table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
+</p>
 
 ---
 
