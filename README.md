@@ -23,11 +23,11 @@ Currently learning, building, and experimenting with AI/ML projects.
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sql,sklearn,tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sql,sklearn,tensorflow,pytorch&perline=7" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=matplotlib,huggingface,opencv,github,jupyter,docker" />
+  <img src="https://skillicons.dev/icons?i=matplotlib,huggingface,opencv,github,jupyter,docker&perline=6" />
 </p>
 ---
 
