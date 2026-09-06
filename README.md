@@ -52,9 +52,15 @@ Currently learning, building, and experimenting with AI/ML projects.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aadith47&show_icons=true&hide_border=true&theme=github_dark"
+    width="48%"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadith47&layout=compact&hide_border=true&theme=github_dark"
+    width="48%"
+  />
 </p>
-
 ---
 
 ## 🌐 Connect
