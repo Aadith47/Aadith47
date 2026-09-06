@@ -1,9 +1,9 @@
 # Hi, I'm Aadith 👋
 
-### 🎓 Information Technology Graduate | 🤖 Aspiring AI/ML Engineer
+### 🎓 Information Technology Graduate | 📊 Data Scientist
 
-Passionate about **AI, ML, Data Science & Generative AI**.  
-Currently learning, building, and experimenting with AI/ML projects.
+Passionate about **Data Science, Machine Learning & AI**.  
+Building data-driven solutions and continuously expanding my skills.
 
 ---
 
