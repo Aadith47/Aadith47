@@ -64,11 +64,11 @@ Currently learning, building, and experimenting with AI/ML projects.
     <img src="https://skillicons.dev/icons?i=discord" width="50">
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR_INSTAGRAM_LINK">
+  <a href="https://www.linkedin.com/in/-aadith-r?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://skillicons.dev/icons?i=instagram" width="50">
   </a>
   &nbsp;&nbsp;
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/-aadith-r?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://skillicons.dev/icons?i=linkedin" width="50">
   </a>
   &nbsp;&nbsp;
