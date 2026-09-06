@@ -9,11 +9,11 @@ Currently learning, building, and experimenting with projects to turn ideas into
   <a href="YOUR_PORTFOLIO_LINK">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111827?style=for-the-badge" alt="Portfolio">
   </a>
-  <a href="YOUR_LINKEDIN_LINK">
+  <a href="https://www.linkedin.com/in/-aadith-r?utm_source=share_via&utm_content=profile&utm_medium=member_android">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
   </a>
-  <a href="YOUR_INSTAGRAM_LINK">
-    <img src="https://img.shields.io/badge/Instagram-Profile-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
+  <a href="https://www.instagram.com/_.ad.hi?stkn=MTJncjYzZXdicjVrOA==">
+    <img src="https://img.shields.io/badge/Instagram-Profile-111827?style=for-the-badge&logo=instagram&logoColor=#e0691f" alt="Instagram">
   </a>
 </p>
 
