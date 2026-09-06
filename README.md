@@ -53,12 +53,12 @@ Currently learning, building, and experimenting with AI/ML projects.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=aadith47&show_icons=true&hide_border=true&theme=github_dark"
-    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=aadith47&show_icons=true&theme=github_dark&hide_border=true"
+    width="49%"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadith47&layout=compact&hide_border=true&theme=github_dark"
-    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadith47&layout=compact&theme=github_dark&hide_border=true"
+    width="49%"
   />
 </p>
 ---
