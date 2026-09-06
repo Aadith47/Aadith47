@@ -22,56 +22,24 @@ Currently learning, building, and experimenting with AI/ML projects.
 ---
 ## 🛠️ Tech Stack
 
----
-## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" width="45">
+  <img src="https://skillicons.dev/icons?i=numpy" width="45">
+  <img src="https://skillicons.dev/icons?i=pandas" width="45">
+  <img src="https://skillicons.dev/icons?i=mysql" width="45">
+  <img src="https://skillicons.dev/icons?i=sklearn" width="45">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="45">
+  <img src="https://skillicons.dev/icons?i=pytorch" width="45">
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=numpy" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=pandas" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="50">
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=matplotlib" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=huggingface" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=opencv" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=github" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=jupyter" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="50">
-    </td>
-    <td></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=matplotlib" width="45">
+  <img src="https://skillicons.dev/icons?i=huggingface" width="45">
+  <img src="https://skillicons.dev/icons?i=opencv" width="45">
+  <img src="https://skillicons.dev/icons?i=github" width="45">
+  <img src="https://skillicons.dev/icons?i=jupyter" width="45">
+  <img src="https://skillicons.dev/icons?i=docker" width="45">
+</p>
 
 ---
 ---
