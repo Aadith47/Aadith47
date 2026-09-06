@@ -3,35 +3,48 @@
 ### 🎓 Computer Science Graduate | 🤖 Aspiring AI/ML Engineer
 
 I'm passionate about **Artificial Intelligence, Machine Learning, Data Science, and Generative AI**.
-Currently learning, building, and experimenting with projects to turn ideas into real-world solutions.
+
+Currently learning, building, and experimenting with AI/ML projects to turn ideas into real-world solutions.
+
+---
+
+## 🌐 Connect
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111827?style=for-the-badge" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/-aadith-r?utm_source=share_via&utm_content=profile&utm_medium=member_android">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/_.ad.hi?stkn=MTJncjYzZXdicjVrOA==">
-    <img src="https://img.shields.io/badge/Instagram-Profile-111827?style=for-the-badge&logo=instagram&logoColor=#e0691f" alt="Instagram">
-  </a>
-</p>
 
-<p align="center">
-  <i>Building • Learning • Experimenting • Growing</i>
+<a href="YOUR_DISCORD_LINK">
+  <img src="https://skillicons.dev/icons?i=discord" width="55" alt="Discord">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_INSTAGRAM_LINK">
+  <img src="https://skillicons.dev/icons?i=instagram" width="55" alt="Instagram">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_LINKEDIN_LINK">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="55" alt="LinkedIn">
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="YOUR_PORTFOLIO_LINK">
+  <img src="https://skillicons.dev/icons?i=html" width="55" alt="Portfolio">
+</a>
+
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-* 🎓 Computer Science Graduate
-* 🤖 Aspiring AI/ML Engineer
-* 🐍 Working primarily with Python
-* 📊 Exploring Data Science and Machine Learning
-* 🧠 Learning Generative AI
-* 🚀 Building practical AI/ML projects
-* 📚 Continuously improving my problem-solving and development skills
+- 🎓 Computer Science Graduate
+- 🤖 Aspiring AI/ML Engineer
+- 🐍 Python developer
+- 📊 Exploring Data Science
+- 🧠 Learning Generative AI
+- 🚀 Building practical AI/ML projects
+- 💡 Interested in turning ideas into real-world applications
+- 📚 Continuously improving my problem-solving and development skills
 
 ---
 
@@ -40,7 +53,7 @@ Currently learning, building, and experimenting with projects to turn ideas into
 ### 💻 Programming & Data
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sql" />
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,mysql" />
 </p>
 
 ### 🤖 Machine Learning & Deep Learning
@@ -53,11 +66,10 @@ Currently learning, building, and experimenting with projects to turn ideas into
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C9BC5?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-![Seaborn](https://img.shields.io/badge/Seaborn-4C9BC5?style=for-the-badge\&logo=python\&logoColor=white)
-
-### 🧠 AI & Generative AI
+### 🧠 Generative AI
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=huggingface" />
@@ -81,21 +93,55 @@ Currently learning, building, and experimenting with projects to turn ideas into
 
 I'm currently focused on strengthening my skills in:
 
-**Python → Data Science → Machine Learning → Deep Learning → Generative AI**
+<p align="center">
+
+**Python**
+→
+**Data Science**
+→
+**Machine Learning**
+→
+**Deep Learning**
+→
+**Generative AI**
+
+</p>
 
 I enjoy building projects that combine software development with AI to solve practical problems.
 
 ---
 
-## 🎯 My Goal
+## 📌 Projects
 
-> **Learn → Build → Deploy → Grow**
+### 🤖 AI & Machine Learning
 
-My goal is to continuously learn new technologies, build meaningful projects, deploy them into real-world applications, and grow as an AI/ML engineer.
+- 🔹 Machine Learning projects using Python and Scikit-learn
+- 🔹 Deep Learning projects using TensorFlow and PyTorch
+- 🔹 Computer Vision applications using OpenCV
+- 🔹 Generative AI experiments and applications
+
+### 📊 Data Science
+
+- 🔹 Data analysis and preprocessing
+- 🔹 Exploratory Data Analysis
+- 🔹 Data visualization
+- 🔹 Predictive modeling
 
 ---
 
-## 📊 GitHub
+## 🎯 My Goal
+
+<p align="center">
+
+### Learn → Build → Deploy → Grow
+
+</p>
+
+My goal is to continuously learn new technologies, build meaningful projects, deploy them into real-world applications, and grow as an **AI/ML Engineer**.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats">
@@ -107,10 +153,20 @@ My goal is to continuously learn new technologies, build meaningful projects, de
 
 ---
 
-<p align="center">
-  <b>Thanks for visiting my profile!</b>
-</p>
+## 💡 Currently Learning
 
 <p align="center">
-  <i>Let's build something meaningful with AI.</i>
+
+`Python` • `Data Science` • `Machine Learning` • `Deep Learning` • `Generative AI`
+
+</p>
+
+---
+
+<p align="center">
+
+### Thanks for visiting my profile!
+
+<i>Let's build something meaningful with AI.</i>
+
 </p>
