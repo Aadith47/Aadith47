@@ -7,14 +7,18 @@ Currently learning, building, and experimenting with projects to turn ideas into
 
 <p align="center">
   <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-111827?style=for-the-badge" alt="Portfolio">
   </a>
   <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
   </a>
   <a href="YOUR_INSTAGRAM_LINK">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-Profile-111827?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
   </a>
+</p>
+
+<p align="center">
+  <i>Building • Learning • Experimenting • Growing</i>
 </p>
 
 ---
@@ -33,14 +37,43 @@ Currently learning, building, and experimenting with projects to turn ideas into
 
 ## 🛠️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+### 💻 Programming & Data
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sql" />
+</p>
+
+### 🤖 Machine Learning & Deep Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch" />
+</p>
+
+### 📊 Data Visualization
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=matplotlib" />
+</p>
+
+![Seaborn](https://img.shields.io/badge/Seaborn-4C9BC5?style=for-the-badge\&logo=python\&logoColor=white)
+
+### 🧠 AI & Generative AI
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=huggingface" />
+</p>
+
+### 👁️ Computer Vision
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv" />
+</p>
+
+### 🔧 Tools & Development
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker" />
+</p>
 
 ---
 
@@ -72,10 +105,12 @@ My goal is to continuously learn new technologies, build meaningful projects, de
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
 </p>
 
+---
+
 <p align="center">
   <b>Thanks for visiting my profile!</b>
 </p>
 
 <p align="center">
-  Let's connect, collaborate, and build something awesome.
+  <i>Let's build something meaningful with AI.</i>
 </p>
