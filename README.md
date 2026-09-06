@@ -47,14 +47,11 @@ Currently learning, building, and experimenting with AI/ML projects.
   </tr>
 </table>
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadith47&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
 </p>
----
 
 ## 🌐 Connect
 
