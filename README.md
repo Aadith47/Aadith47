@@ -52,10 +52,3 @@ Building data-driven solutions and continuously expanding my skills.
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadith47&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
 </p>
-]
----
-
-<p align="center">
-  <i>**Thanks for visiting my profile!**</i>
-</p>
-
