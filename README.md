@@ -7,28 +7,6 @@ Currently learning, building, and experimenting with AI/ML projects.
 
 ---
 
-## 🌐 Connect
-
-<p align="center">
-  <a href="YOUR_DISCORD_LINK">
-    <img src="https://skillicons.dev/icons?i=discord" width="50">
-  </a>
-  &nbsp;&nbsp;
-  <a href="YOUR_INSTAGRAM_LINK">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50">
-  </a>
-  &nbsp;&nbsp;
-  <a href="YOUR_LINKEDIN_LINK">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50">
-  </a>
-  &nbsp;&nbsp;
-  <a href="YOUR_PORTFOLIO_LINK">
-    <img src="https://skillicons.dev/icons?i=html" width="50">
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -52,6 +30,28 @@ Currently learning, building, and experimenting with AI/ML projects.
 ## 🎯 Goal
 
 **Learn → Build → Deploy → Grow**
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="YOUR_DISCORD_LINK">
+    <img src="https://skillicons.dev/icons?i=discord" width="50">
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_INSTAGRAM_LINK">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50">
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_LINKEDIN_LINK">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50">
+  </a>
+  &nbsp;&nbsp;
+  <a href="YOUR_PORTFOLIO_LINK">
+    <img src="https://skillicons.dev/icons?i=html" width="50">
+  </a>
+</p>
 
 ---
 
