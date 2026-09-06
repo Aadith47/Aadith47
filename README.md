@@ -2,7 +2,7 @@
 
 ### 🎓 Information Technology Graduate | 🤖 Aspiring AI/ML Engineer
 
-Passionate about **AI, Machine Learning, Data Science & Generative AI**.  
+Passionate about **AI, ML, Data Science & Generative AI**.  
 Currently learning, building, and experimenting with AI/ML projects.
 
 ---
