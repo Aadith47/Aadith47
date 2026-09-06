@@ -23,11 +23,22 @@ Currently learning, building, and experimenting with AI/ML projects.
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,sql,sklearn,tensorflow,pytorch&perline=7" />
-</p>
+  <img src="https://skillicons.dev/icons?i=python" width="50">
+  <img src="https://skillicons.dev/icons?i=numpy" width="50">
+  <img src="https://skillicons.dev/icons?i=pandas" width="50">
+  <img src="https://skillicons.dev/icons?i=mysql" width="50">
+  <img src="https://skillicons.dev/icons?i=sklearn" width="50">
+  <img src="https://skillicons.dev/icons?i=tensorflow" width="50">
+  <img src="https://skillicons.dev/icons?i=pytorch" width="50">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=matplotlib,huggingface,opencv,github,jupyter,docker&perline=6" />
+  <br>
+
+  <img src="https://skillicons.dev/icons?i=matplotlib" width="50">
+  <img src="https://skillicons.dev/icons?i=huggingface" width="50">
+  <img src="https://skillicons.dev/icons?i=opencv" width="50">
+  <img src="https://skillicons.dev/icons?i=github" width="50">
+  <img src="https://skillicons.dev/icons?i=jupyter" width="50">
+  <img src="https://skillicons.dev/icons?i=docker" width="50">
 </p>
 ---
 
