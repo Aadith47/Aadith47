@@ -13,12 +13,6 @@ Building data-driven solutions and continuously expanding my skills.
 
 ---
 
-## 🎯 Goal
-
-**Learn → Build → Deploy → Grow**
-
----
-
 ## 🛠️ Tech Stack
 
 <table align="center">
