@@ -41,6 +41,8 @@ Building data-driven solutions and continuously expanding my skills.
   </tr>
 </table>
 
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
