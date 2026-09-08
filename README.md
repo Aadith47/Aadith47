@@ -1,8 +1,8 @@
 # Hi, I'm Aadith 👋
 
-### 🎓 Information Technology Graduate | 📊 Data Scientist
+###📊 Data Scientist
 
-Passionate about **Data Science, Machine Learning & AI**.  
+Information Technology Graduate passionate about **Data Science, Machine Learning & AI**.  
 Building data-driven solutions and continuously expanding my skills.
 
 ---
