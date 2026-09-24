@@ -6,7 +6,7 @@ I'm an Information Technology graduate learning data science, with a focus on Py
  
 ---
  
-## Currently Learning
+## 🚀 Currently Learning
  
 - Python fundamentals and data handling with pandas and NumPy
 - Data visualization and exploratory data analysis (EDA)
