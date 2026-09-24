@@ -1,19 +1,17 @@
-# Hi, I'm Aadith 👋
+#Hi, I'm Aadith 👋
+###Aspiring Data Scientist
 
-### 📊 Data Scientist
-
-Information Technology Graduate passionate about **Data Science, Machine Learning & AI**.  
-Building data-driven solutions and continuously expanding my skills.
+I'm an Information Technology graduate learning data science, with a focus on Python, machine learning and AI.
 
 ---
 
-## 🚀 Currently Learning
+##Currently Learning
 
 **Python → Data Science → Machine Learning → Deep Learning → Generative AI**
 
 ---
 
-## 🛠️ Tech Stack
+##Tech Stack
 
 <table align="center">
   <tr>
