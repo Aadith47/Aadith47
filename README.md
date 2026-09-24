@@ -9,8 +9,11 @@ I'm an Information Technology graduate learning data science, with a focus on Py
 ## 🚀 Currently Learning
 
 *Python fundamentals and data handling with pandas and NumPy*
+
 *Data visualization and exploratory data analysis (EDA)*
+
 *Machine learning basics with scikit-learn*
+
 *Deep learning and generative AI*
 
 ---
