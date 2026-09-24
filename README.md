@@ -1,12 +1,12 @@
 # Hi, I'm Aadith 👋
 
-### 📊 Aspiring Data Scientist
+###  Aspiring Data Scientist
 
-I'm an Information Technology graduate learning data science, with a focus on Python, machine learning and AI.
+## I'm an Information Technology graduate learning data science, with a focus on Python, machine learning and AI.
 
 ---
 
-## 🚀 Currently Learning
+##  Currently Learning
 
 *Python fundamentals and data handling with pandas and NumPy*
 
