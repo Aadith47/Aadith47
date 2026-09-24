@@ -16,31 +16,9 @@ I'm an Information Technology graduate learning data science, with a focus on Py
 
 ## 🛠️ Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=opencv" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="50">
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,pandas,numpy,matplotlib,sklearn,mysql,git,github,vscode" alt="Tech stack icons">
+</p>
 
 ---
 
