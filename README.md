@@ -1,4 +1,4 @@
-# Hi, I'm Aadith
+# Hi, I'm Aadith👋
  
 ### Aspiring Data Scientist
  
