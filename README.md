@@ -12,6 +12,7 @@ I'm an Information Technology graduate learning data science, with a focus on Py
 - Data visualization and exploratory data analysis (EDA)
 - Machine learning basics with scikit-learn
 - Deep learning and generative AI
+
 ---
 
 ## 🛠️ Tech Stack
