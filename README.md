@@ -45,8 +45,6 @@ I'm an Information Technology graduate learning data science, with a focus on Py
 
 ---
 
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
