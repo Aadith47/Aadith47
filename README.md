@@ -4,7 +4,7 @@
 
 I'm an Information Technology graduate learning data science, with a focus on Python, machine learning and AI.
  
----
+----
  
 ## 🚀 Currently Learning
  
