@@ -24,17 +24,49 @@
 
 ## 🛠️ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-EB5B25?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="170"><b>🐍 Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=FFD43B&labelColor=0D1117&color=6C63FF" />
+      <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117&color=6C63FF" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>📊 Data Analysis</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Pandas-0D1117?style=flat-square&logo=pandas&logoColor=white&labelColor=0D1117&color=00C9A7" />
+      <img src="https://img.shields.io/badge/NumPy-0D1117?style=flat-square&logo=numpy&logoColor=white&labelColor=0D1117&color=00C9A7" />
+      <img src="https://img.shields.io/badge/Jupyter-0D1117?style=flat-square&logo=jupyter&logoColor=F37626&labelColor=0D1117&color=00C9A7" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🤖 Machine Learning</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/scikit--learn-0D1117?style=flat-square&logo=scikitlearn&logoColor=F7931E&labelColor=0D1117&color=FF6B6B" />
+      <img src="https://img.shields.io/badge/XGBoost-0D1117?style=flat-square&logo=xgboost&logoColor=white&labelColor=0D1117&color=FF6B6B" />
+      <img src="https://img.shields.io/badge/Time%20Series-0D1117?style=flat-square&labelColor=0D1117&color=FF6B6B" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>✨ GenAI & Apps</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/RAG-0D1117?style=flat-square&labelColor=0D1117&color=FFB347" />
+      <img src="https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=FF4B4B&labelColor=0D1117&color=FFB347" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>🧰 Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032&labelColor=0D1117&color=8E9AAF" />
+      <img src="https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white&labelColor=0D1117&color=8E9AAF" />
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ---
 
