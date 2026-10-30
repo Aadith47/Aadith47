@@ -1,30 +1,52 @@
-# Hi, I'm Aadith
+# Hi, I'm Aadith👋
+ 
+### Aspiring Data Scientist
 
-AI Engineer in the making. I build ML and GenAI projects that solve real problems.
-
-B.Tech in Information Technology, Government Engineering College Idukki (2022–2026) · Kerala, India
-
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR-EMAIL)
-
----
-
-### What I work with
-
-**Python** · **SQL** · **scikit-learn** · **XGBoost** · **RAG** · **Streamlit** · **Git**
-
----
-
-### Projects
-
-**[Policy Compliance Chatbot](https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME)**
-A RAG chatbot that tells new employees if an action follows company policy.
-
-**[ChargeWise AI](https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME)**
-Predicts EV range and plans charging stops for drivers in Kerala.
-
-**[Engine RUL Prediction](https://github.com/YOUR-GITHUB-USERNAME/REPO-NAME)**
-Predicts the remaining life of a jet engine using NASA C-MAPSS data.
+I'm an Information Technology graduate learning data science, with a focus on Python, machine learning and AI.
+ 
+----
+ 
+## 🚀 Currently Learning
+ 
+- Python fundamentals and data handling with pandas and NumPy
+- Data visualization and exploratory data analysis (EDA)
+- Machine learning basics with scikit-learn
+- Deep learning and generative AI
 
 ---
 
-Open to AI Engineer roles. Feel free to reach out.
+## 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="50">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=opencv" width="50">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="50">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="50">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=sklearn" width="50">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="50">
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="50">
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadith47&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
+</p>
