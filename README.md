@@ -42,7 +42,7 @@ Currently exploring Generative AI, RAG architectures, AI agents, and intelligent
       <p align="center">
         <img src="https://skillicons.dev/icons?i=python&theme=dark" width="52" alt="Python" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="52" alt="PyTorch" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="52" alt="TensorFlow" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="52" alt="scikit-learn" />
         <br/><br/>
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="52" alt="Hugging Face" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="52" alt="Docker" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=git&theme=dark" width="52" alt="Git" />&emsp;&emsp;&emsp;<img src="https://raw.githubusercontent.com/langchain-ai/.github/main/profile/logo-light.svg" width="52" alt="LangChain" />
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="52" alt="Hugging Face" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="52" alt="Docker" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=git&theme=dark" width="52" alt="Git" />&emsp;&emsp;&emsp;<img src="https://www.aiuidesigner.com/icons/langchain.svg" width="52" alt="LangChain" />width="52" alt="LangChain" />
       </p>
     </td>
   </tr>
