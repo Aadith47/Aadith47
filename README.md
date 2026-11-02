@@ -12,23 +12,22 @@
 
 ## 👋 Get To Know Me
 
-Information Technology graduate passionate about designing intelligent systems and developing practical AI-driven applications.
+Building intelligent systems at the intersection of software engineering and applied AI.
 
-I enjoy exploring modern AI technologies, understanding how intelligent systems work, and turning ideas into real-world solutions.
+I’m an Information Technology graduate focused on turning LLMs, retrieval pipelines, and agentic workflows into practical, production-ready applications. I enjoy designing systems that can reason over data, use tools, and solve real problems—not just generate text.
 
-**Currently Exploring**
-- Generative AI and LLM applications
-- Retrieval-Augmented Generation (RAG)
-- AI agents and intelligent workflows
-- Machine learning and deep learning
+Currently exploring Generative AI, RAG architectures, AI agents, and intelligent workflow automation, with a strong foundation in Machine Learning and Deep Learning.
 
-**Highlights**
+Highlights
+🎓 B.Tech in Information Technology — Government Engineering College Idukki
 
-- 🎓 **Education:** Information Technology, Government Engineering College Idukki
-- 💼 **Experience:** MERN Stack with AI Intern at Hexinox, and Data Science Intern (current)
-- 🧠 **Focus:** Machine Learning, LLMs, RAG and AI Agents
-- 🛠️ **Build with:** Python, FastAPI, Streamlit and Docker
-- 🎯 **Open to:** AI/ML Engineer and Software Engineer roles
+💼 Data Science / Gen AI Intern @ Bluefoxlabs (Current)
+
+🧠 Specializing in: LLM applications, RAG, AI agents, ML & Deep Learning
+
+🛠️ Engineering with: Python, FastAPI, AWS, Docker
+
+🎯 Open to: AI/ML Engineer and Software Engineer roles
 
 ---
 
