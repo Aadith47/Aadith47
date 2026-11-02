@@ -18,14 +18,15 @@ I’m an Information Technology graduate focused on turning LLMs, retrieval pipe
 
 Currently exploring Generative AI, RAG architectures, AI agents, and intelligent workflow automation, with a strong foundation in Machine Learning and Deep Learning.
 
-Highlights
+### Highlights
+
 🎓 B.Tech in Information Technology — Government Engineering College Idukki
 
-💼 Data Science / Gen AI Intern @ Bluefoxlabs (Current)
+💼 Data Science / Gen AI Intern @ Bluefoxlabs | MERN Stack + AI Intern @ Hexinox
 
 🧠 Specializing in: LLM applications, RAG, AI agents, ML & Deep Learning
 
-🛠️ Engineering with: Python, FastAPI, AWS, Docker
+🛠️ Engineering with: Python, FastAPI, AWS, Docker, MERN
 
 🎯 Open to: AI/ML Engineer and Software Engineer roles
 
