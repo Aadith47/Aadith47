@@ -18,7 +18,7 @@ I’m an Information Technology graduate focused on turning LLMs, retrieval pipe
 
 Currently exploring Generative AI, RAG architectures, AI agents, and intelligent workflow automation, with a strong foundation in Machine Learning and Deep Learning.
 
-### Highlights
+### 🔷 Highlights
 
 🎓 B.Tech in Information Technology — Government Engineering College Idukki
 
