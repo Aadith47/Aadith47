@@ -11,21 +11,11 @@
 #### **Areas of Interest:** Machine Learning · Deep Learning · Generative AI · AI Engineering
 
 #### **Current Focus:** Building intelligent applications and exploring the engineering behind modern AI systems.
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technologies & Tools
 
-**Languages & Data**
-<br>
-<img src="https://skillicons.dev/icons?i=python,mysql" />
-
-**AI & Machine Learning**
-<br>
-<img src="https://skillicons.dev/icons?i=opencv,sklearn,tensorflow,pytorch" />
-
-**Tools & Infrastructure**
-<br>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
-
-
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,opencv,sklearn,tensorflow,pytorch,docker,git,github,vscode&perline=5" />
+</p>
 
 ---
 
