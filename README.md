@@ -41,12 +41,9 @@ I enjoy turning ideas into real products and I am always learning new technologi
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Aadith47&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Aadith47&layout=compact&theme=radical&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadith47&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
+</p>
 
 ---
 
