@@ -6,13 +6,6 @@
 <!-- Typing text -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Turning+data+into+smart+systems;Building+with+Python+and+AI;Learning+something+new+every+day" alt="Typing text" />
 
-<br/>
-
-<!-- Social icons: change the links -->
-<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-1a1033?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-1a1033?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
 </div>
 
 ---
