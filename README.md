@@ -1,20 +1,16 @@
-# Hi, I'm Aadith👋
- 
-### Aspiring Data Scientist
+# Hi, I'm Aadith 👋
 
-I'm an Information Technology graduate learning data science, with a focus on Python, machine learning and AI.
- 
-----
- 
-## 🚀 Currently Learning
- 
-- Python fundamentals and data handling with pandas and NumPy
-- Data visualization and exploratory data analysis (EDA)
-- Machine learning basics with scikit-learn
-- Deep learning and generative AI
+### Aspiring AI Engineer | Artificial Intelligence & Generative AI
+
+I'm an Information Technology graduate with a strong interest in building intelligent systems and developing practical AI-driven solutions.
+
+My focus is on understanding the foundations of AI, exploring modern generative AI technologies, and engineering applications that address real-world challenges. I value continuous learning, hands-on experimentation, and writing solutions that are both effective and practical.
 
 ---
 
+**Areas of Interest:** Machine Learning · Deep Learning · Generative AI · AI Engineering
+
+**Current Focus:** Building intelligent applications and exploring the engineering behind modern AI systems.
 ## 🛠️ Tech Stack
 
 <table align="center">
