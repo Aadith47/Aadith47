@@ -26,11 +26,11 @@ I enjoy turning ideas into real products and I am always learning new technologi
 <table align="center">
   <tr>
     <td width="420" align="center" valign="top">
-      <h2 align="left">📊 GitHub Stats</h2>
+      <h2 align="left">GitHub Stats</h2>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadith47&hide_border=true&background=0D1117&stroke=6D28D9&ring=A78BFA&fire=A78BFA&currStreakNum=FFFFFF&sideNums=A78BFA&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=9CA3AF" alt="GitHub Streak" width="400" />
     </td>
     <td width="420" align="center" valign="top">
-      <h2 align="left">🛠️ Tech Stack</h2>
+      <h2 align="left">Tech Stack</h2>
       <table width="400">
         <tr>
           <td width="100" height="80" align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="64" alt="Python" /></td>
