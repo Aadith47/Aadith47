@@ -12,8 +12,6 @@
 
 ## 👋 Get To Know Me
 
-Building intelligent systems at the intersection of software engineering and applied AI.
-
 I’m an Information Technology graduate focused on turning LLMs, retrieval pipelines, and agentic workflows into practical, production-ready applications. I enjoy designing systems that can reason over data, use tools, and solve real problems—not just generate text.
 
 Currently exploring Generative AI, RAG architectures, AI agents, and intelligent workflow automation, with a strong foundation in Machine Learning and Deep Learning.
