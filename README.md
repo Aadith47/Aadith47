@@ -1,38 +1,36 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090f,50:17112b,100:291447&height=150&section=header&text=AADITH&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=AI%20ENGINEERING%20%7C%20GENERATIVE%20AI&descSize=13&descAlignY=72" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09090f,50:17112b,100:291447&height=160&section=header&text=AADITH&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=ASPIRING%20AI%20ENGINEER&descSize=14&descAlignY=72" />
 
 </div>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="55%" valign="middle">
 
-## Hi, I'm Aadith 👋
+# Hi, I'm Aadith 👋
 
-**Aspiring AI Engineer**
+### Aspiring AI Engineer
 
-Information Technology graduate passionate about designing intelligent systems and developing practical AI-driven applications.
+Information Technology graduate passionate about building intelligent systems and practical AI-driven applications.
 
-I enjoy exploring modern AI technologies, understanding how intelligent systems work, and turning ideas into real-world solutions.
+Currently exploring modern AI architectures, Generative AI, and the engineering behind intelligent applications.
 
-**Currently Exploring**
-- Generative AI and LLM applications
-- Retrieval-Augmented Generation (RAG)
-- AI agents and intelligent workflows
-- Machine learning and deep learning
+<br/>
+
+<a href="https://github.com/aadith47">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </td>
-<td width="42%" align="center" valign="middle">
+<td width="45%" align="center" valign="middle">
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=2" />
 
 <br/><br/>
 
-<a href="https://github.com/aadith47">
-<img src="https://img.shields.io/badge/GitHub-aadith47-171321?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=aadith47&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
 
 </td>
 </tr>
@@ -48,15 +46,20 @@ I enjoy exploring modern AI technologies, understanding how intelligent systems 
 
 - 🎓 Information Technology Graduate
 - 🤖 Aspiring AI Engineer
-- 🔍 Interested in building intelligent applications
-- 🧪 Learning through experimentation and projects
+- 🧠 Interested in Machine Learning and Generative AI
+- 🔬 Enjoy experimenting with AI technologies
+- ⚡ Focused on building practical AI solutions
 
 </td>
 <td width="50%" valign="top">
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,mysql,opencv,sklearn,tensorflow,pytorch,docker,git,github,vscode&perline=5" />
+
+</div>
 
 </td>
 </tr>
@@ -68,13 +71,34 @@ I enjoy exploring modern AI technologies, understanding how intelligent systems 
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=aadith47&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9" />
+<table>
+<tr>
+<td width="50%" align="center">
 
-<img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=aadith47&theme=github-dark-blue&hide_border=true&background=0d1117&ring=c084fc&fire=c084fc&currStreakLabel=c084fc" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=aadith47&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9&rank_icon=github" />
 
-<br/><br/>
+</td>
+<td width="50%" align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=aadith47&bg_color=0d1117&color=c9d1d9&line=a855f7&point=c084fc&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aadith47&theme=github-dark-blue&hide_border=true&background=0d1117&ring=c084fc&fire=c084fc&currStreakLabel=c084fc" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadith47&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aadith47&bg_color=0d1117&color=c9d1d9&line=a855f7&point=c084fc&area=true&hide_border=true&custom_title=Contribution%20Activity" />
 
 </div>
 
@@ -82,10 +106,14 @@ I enjoy exploring modern AI technologies, understanding how intelligent systems 
 
 <div align="center">
 
-### Building. Experimenting. Engineering AI.
+### Building. Learning. Engineering.
 
-<a href="https://github.com/aadith47">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"/>
+*Exploring the possibilities of Artificial Intelligence.*
+
+<br/>
+
+<a href="https://github.com/aadith47?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
