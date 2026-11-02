@@ -10,13 +10,17 @@
 
 ---
 
-## 🚀 Who Am I?
+## 👋 Get To Know Me
 
-It started with a simple question: *how can a computer learn from data?*
+Information Technology graduate passionate about designing intelligent systems and developing practical AI-driven applications.
 
-That question took me from a classroom at Government Engineering College Idukki to real internships, and now to building AI projects of my own. Today I am a fresher **AI/ML Engineer** from Kerala, India. I like to take an idea all the way: the data, the model, the API and a working app that people can use.
+I enjoy exploring modern AI technologies, understanding how intelligent systems work, and turning ideas into real-world solutions.
 
-I am still learning every day, and I am looking for a team where I can keep building. 🌱
+**Currently Exploring**
+- Generative AI and LLM applications
+- Retrieval-Augmented Generation (RAG)
+- AI agents and intelligent workflows
+- Machine learning and deep learning
 
 **Highlights**
 
@@ -26,22 +30,17 @@ I am still learning every day, and I am looking for a team where I can keep buil
 - 🛠️ **Build with:** Python, FastAPI, Streamlit and Docker
 - 🎯 **Open to:** AI/ML Engineer and Software Engineer roles
 
-### ✨ What I Have Built
-
-- 🤖 **Agentic RAG assistant:** an AI agent that answers questions from documents. Built with FastAPI and Streamlit, and deployed.
-- ⚙️ **Machine Sentinel:** a predictive maintenance app. It estimates the remaining life of machines, finds anomalies, and explains its results with SHAP.
-
 ---
 
 <!-- GitHub Stats (left) and Tech Stack (right) -->
 <table align="center">
   <tr>
     <td width="420" align="center" valign="top">
-      <h2 align="left">🔥 My Coding Pulse</h2>
+      <h2 align="left"> 📈 Dev Stats</h2>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadith47&hide_border=true&background=0D1117&stroke=6D28D9&ring=A78BFA&fire=A78BFA&currStreakNum=FFFFFF&sideNums=A78BFA&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=9CA3AF" alt="GitHub Streak" width="400" />
     </td>
     <td width="420" align="center" valign="top">
-      <h2 align="left">⚡ My Tech Arsenal</h2>
+      <h2 align="left">⚡ Built With</h2>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=python&theme=dark" width="52" alt="Python" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="52" alt="PyTorch" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="52" alt="TensorFlow" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="52" alt="scikit-learn" />
         <br/><br/>
