@@ -11,33 +11,21 @@
 #### **Areas of Interest:** Machine Learning · Deep Learning · Generative AI · AI Engineering
 
 #### **Current Focus:** Building intelligent applications and exploring the engineering behind modern AI systems.
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=python" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=opencv" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=sklearn" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=tensorflow" width="50">
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=pytorch" width="50">
-    </td>
-  </tr>
-</table>
+**Languages & Data**
+<br>
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+
+**AI & Machine Learning**
+<br>
+<img src="https://skillicons.dev/icons?i=opencv,sklearn,tensorflow,pytorch" />
+
+**Tools & Infrastructure**
+<br>
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode" />
+
+
 
 ---
 
