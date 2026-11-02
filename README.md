@@ -1,119 +1,64 @@
-
+<!-- ===== HEADER ===== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09090f,50:17112b,100:291447&height=160&section=header&text=AADITH&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=ASPIRING%20AI%20ENGINEER&descSize=14&descAlignY=72" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1033,100:6d28d9&height=180&section=header&text=Hi,%20I'm%20Aadith&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=AI/ML%20Engineer&descSize=20&descAlignY=62" width="100%" />
 
-</div>
-
-<table>
-<tr>
-<td width="55%" valign="middle">
-
-# Hi, I'm Aadith 👋
-
-### Aspiring AI Engineer
-
-Information Technology graduate passionate about building intelligent systems and practical AI-driven applications.
-
-Currently exploring modern AI architectures, Generative AI, and the engineering behind intelligent applications.
+<!-- Typing text -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Turning+data+into+smart+systems;Building+with+Python+and+AI;Learning+something+new+every+day" alt="Typing text" />
 
 <br/>
 
-<a href="https://github.com/aadith47">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<!-- Social icons: change the links -->
+<a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-1a1033?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-6d28d9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-1a1033?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-</td>
-<td width="45%" align="center" valign="middle">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&perline=2" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=aadith47&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS" />
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ## 👨‍💻 About Me
 
-- 🎓 Information Technology Graduate
-- 🤖 Aspiring AI Engineer
-- 🧠 Interested in Machine Learning and Generative AI
-- 🔬 Enjoy experimenting with AI technologies
-- ⚡ Focused on building practical AI solutions
+I am a passionate **AI/ML Engineer** who loves building smart, useful and easy-to-use projects.
 
-</td>
-<td width="50%" valign="top">
+I enjoy turning ideas into real products and I am always learning new technologies.
+
+- 🔭 Working on AI, machine learning and data projects
+- 🌱 Learning more about LLMs, RAG and AI agents
+- 🎯 Looking for AI/ML and software engineering roles
+
+---
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,opencv,sklearn,tensorflow,pytorch,docker,git,github,vscode&perline=5" />
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=aadith47&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c084fc&icon_color=c084fc&text_color=c9d1d9&rank_icon=github" />
-
-</td>
-<td width="50%" align="center">
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=aadith47&theme=github-dark-blue&hide_border=true&background=0d1117&ring=c084fc&fire=c084fc&currStreakLabel=c084fc" />
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadith47&layout=compact&hide_border=true&bg_color=0d1117&title_color=c084fc&text_color=c9d1d9" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,fastapi,streamlit&theme=dark" />
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=aadith47&bg_color=0d1117&color=c9d1d9&line=a855f7&point=c084fc&area=true&hide_border=true&custom_title=Contribution%20Activity" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
 ---
 
+## 📈 Contribution Graph
+
 <div align="center">
 
-### Building. Learning. Engineering.
-
-*Exploring the possibilities of Artificial Intelligence.*
-
-<br/>
-
-<a href="https://github.com/aadith47?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=1a1033&color=a78bfa&line=6d28d9&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
+
+<!-- ===== FOOTER ===== -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6d28d9,100:1a1033&height=100&section=footer" width="100%" />
