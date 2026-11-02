@@ -22,18 +22,16 @@ I enjoy turning ideas into real products and I am always learning new technologi
 
 ---
 
-<!-- Tech Stack and GitHub Stats side by side -->
+<!-- GitHub Stats (left) and Tech Stack (right) -->
 <table align="center">
   <tr>
     <td align="center" valign="top">
-      <h2>🛠️ Tech Stack</h2>
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,pandas,numpy,fastapi,streamlit&theme=dark" />
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux&theme=dark" />
+      <h2 align="left">📊 GitHub Stats</h2>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadith47&hide_border=true&background=0D1117&stroke=6D28D9&ring=A78BFA&fire=A78BFA&currStreakNum=FFFFFF&sideNums=A78BFA&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=9CA3AF" alt="GitHub Streak" width="400" />
     </td>
     <td align="center" valign="top">
-      <h2>📊 GitHub Stats</h2>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadith47&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" width="400" />
+      <h2 align="left">🛠️ Tech Stack</h2>
+      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,huggingface,docker,git,aws&theme=dark&perline=4" />
     </td>
   </tr>
 </table>
