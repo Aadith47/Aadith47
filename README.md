@@ -26,25 +26,16 @@ I enjoy turning ideas into real products and I am always learning new technologi
 <table align="center">
   <tr>
     <td width="420" align="center" valign="top">
-      <h2 align="left">GitHub Stats</h2>
+      <h2 align="left">📊 GitHub Stats</h2>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadith47&hide_border=true&background=0D1117&stroke=6D28D9&ring=A78BFA&fire=A78BFA&currStreakNum=FFFFFF&sideNums=A78BFA&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=9CA3AF" alt="GitHub Streak" width="400" />
     </td>
     <td width="420" align="center" valign="top">
-      <h2 align="left">Tech Stack</h2>
-      <table width="400">
-        <tr>
-          <td width="100" height="80" align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="64" alt="Python" /></td>
-          <td width="100" height="80" align="center"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="64" alt="PyTorch" /></td>
-          <td width="100" height="80" align="center"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="64" alt="TensorFlow" /></td>
-          <td width="100" height="80" align="center"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="64" alt="scikit-learn" /></td>
-        </tr>
-        <tr>
-          <td width="100" height="80" align="center"><img src="https://skillicons.dev/icons?i=huggingface&theme=dark" width="64" alt="Hugging Face" /></td>
-          <td width="100" height="80" align="center"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="64" alt="Docker" /></td>
-          <td width="100" height="80" align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="64" alt="Git" /></td>
-          <td width="100" height="80" align="center"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="64" alt="AWS" /></td>
-        </tr>
-      </table>
+      <h2 align="left">🛠️ Tech Stack</h2>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="52" alt="Python" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="52" alt="PyTorch" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="52" alt="TensorFlow" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="52" alt="scikit-learn" />
+        <br/><br/>
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="52" alt="Hugging Face" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="52" alt="Docker" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=git&theme=dark" width="52" alt="Git" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="52" alt="AWS" />
+      </p>
     </td>
   </tr>
 </table>
