@@ -37,5 +37,3 @@ I enjoy turning ideas into real products and I am always learning new technologi
     </td>
   </tr>
 </table>
-
----
