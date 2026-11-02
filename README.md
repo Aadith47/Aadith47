@@ -25,13 +25,26 @@ I enjoy turning ideas into real products and I am always learning new technologi
 <!-- GitHub Stats (left) and Tech Stack (right) -->
 <table align="center">
   <tr>
-    <td align="center" valign="top">
+    <td width="420" align="center" valign="top">
       <h2 align="left">📊 GitHub Stats</h2>
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadith47&hide_border=true&background=0D1117&stroke=6D28D9&ring=A78BFA&fire=A78BFA&currStreakNum=FFFFFF&sideNums=A78BFA&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=9CA3AF" alt="GitHub Streak" width="400" />
     </td>
-    <td align="center" valign="top">
+    <td width="420" align="center" valign="top">
       <h2 align="left">🛠️ Tech Stack</h2>
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,huggingface,docker,git,aws&theme=dark&perline=4" />
+      <table width="400">
+        <tr>
+          <td width="100" height="80" align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" width="64" alt="Python" /></td>
+          <td width="100" height="80" align="center"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="64" alt="PyTorch" /></td>
+          <td width="100" height="80" align="center"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="64" alt="TensorFlow" /></td>
+          <td width="100" height="80" align="center"><img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="64" alt="scikit-learn" /></td>
+        </tr>
+        <tr>
+          <td width="100" height="80" align="center"><img src="https://skillicons.dev/icons?i=huggingface&theme=dark" width="64" alt="Hugging Face" /></td>
+          <td width="100" height="80" align="center"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="64" alt="Docker" /></td>
+          <td width="100" height="80" align="center"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="64" alt="Git" /></td>
+          <td width="100" height="80" align="center"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="64" alt="AWS" /></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
