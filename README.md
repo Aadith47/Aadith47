@@ -2,15 +2,15 @@
 
 ### Aspiring AI Engineer | Artificial Intelligence & Generative AI
 
-I'm an Information Technology graduate with a strong interest in building intelligent systems and developing practical AI-driven solutions.
+#### I'm an Information Technology graduate with a strong interest in building intelligent systems and developing practical AI-driven solutions.
 
-My focus is on understanding the foundations of AI, exploring modern generative AI technologies, and engineering applications that address real-world challenges. I value continuous learning, hands-on experimentation, and writing solutions that are both effective and practical.
+#### My focus is on understanding the foundations of AI, exploring modern generative AI technologies, and engineering applications that address real-world challenges. I value continuous learning, hands-on experimentation, and writing solutions that are both effective and practical.
 
 ---
 
-**Areas of Interest:** Machine Learning · Deep Learning · Generative AI · AI Engineering
+#### **Areas of Interest:** Machine Learning · Deep Learning · Generative AI · AI Engineering
 
-**Current Focus:** Building intelligent applications and exploring the engineering behind modern AI systems.
+#### **Current Focus:** Building intelligent applications and exploring the engineering behind modern AI systems.
 ## 🛠️ Tech Stack
 
 <table align="center">
