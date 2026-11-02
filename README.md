@@ -38,8 +38,8 @@ I enjoy turning ideas into real products and I am always learning new technologi
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aadith47&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadith47&layout=compact&theme=radical&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Aadith47&show_icons=true&theme=radical&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aadith47&layout=compact&theme=radical&hide_border=true" />
 
 </div>
 
@@ -49,7 +49,7 @@ I enjoy turning ideas into real products and I am always learning new technologi
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadith47&bg_color=1a1033&color=a78bfa&line=6d28d9&point=ffffff&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadith47&bg_color=1a1033&color=a78bfa&line=6d28d9&point=ffffff&area=true&hide_border=true" width="100%" />
 
 </div>
 
