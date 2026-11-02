@@ -7,23 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Turning+data+into+smart+systems;Building+with+Python+and+AI;Learning+something+new+every+day" alt="Typing text" />
 
 </div>
-
 ---
-
-## 👋 Get To Know Me
-
-Information Technology graduate passionate about designing intelligent systems and developing practical AI-driven applications.
-
-I enjoy exploring modern AI technologies, understanding how intelligent systems work, and turning ideas into real-world solutions.
-
-**Currently Exploring**
-- Generative AI and LLM applications
-- Retrieval-Augmented Generation (RAG)
-- AI agents and intelligent workflows
-- Machine learning and deep learning
-
----
-
 <!-- GitHub Stats (left) and Tech Stack (right) -->
 <table align="center">
   <tr>
@@ -41,3 +25,23 @@ I enjoy exploring modern AI technologies, understanding how intelligent systems 
     </td>
   </tr>
 </table>
+---
+## 👋 Get To Know Me
+
+Information Technology graduate passionate about designing intelligent systems and developing practical AI-driven applications.
+
+I enjoy exploring modern AI technologies, understanding how intelligent systems work, and turning ideas into real-world solutions.
+
+**Currently Exploring**
+- Generative AI and LLM applications
+- Retrieval-Augmented Generation (RAG)
+- AI agents and intelligent workflows
+- Machine learning and deep learning
+
+
+**Currently Exploring**
+- Generative AI and LLM applications
+- Retrieval-Augmented Generation (RAG)
+- AI agents and intelligent workflows
+- Machine learning and deep learning
+---
