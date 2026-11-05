@@ -34,8 +34,9 @@ Currently exploring Generative AI, RAG architectures, AI agents, and intelligent
 <table align="center">
   <tr>
     <td width="420" align="center" valign="top">
-      <h2 align="left"> 📈 Dev Stats</h2>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadith47&hide_border=true&background=0D1117&stroke=6D28D9&ring=A78BFA&fire=A78BFA&currStreakNum=FFFFFF&sideNums=A78BFA&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=9CA3AF" alt="GitHub Streak" width="400" />
+      <a href="https://github.com/Aadith47">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=A855F7&background=0D111700&vCenter=true&multiline=true&width=420&height=140&lines=%3E+Aadith.role+%3D+%22Data+Scientist+%26+AI+Engineer%22;%3E+Aadith.building+%3D+%5B%22ChargeWise+AI%22%2C+%22Chithram+Finder%22%5D;%3E+Aadith.stack+%3D+%5B%22Python%22%2C+%22LangGraph%22%2C+%22XGBoost%22%5D;%3E+Aadith.status+%3D+%22Open+to+AI%2FML+%26+SWE+Roles%22" alt="Typing SVG" />
+</a>
     </td>
     <td width="420" align="center" valign="top">
       <h2 align="left">⚡ Built With</h2>
