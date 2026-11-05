@@ -1,49 +1,93 @@
-<!-- ===== HEADER ===== -->
+<div align="center">
+  <h1>Hi there, I'm Aadith 👋</h1>
+  <p><strong>Data Scientist & AI / ML Engineer</strong></p>
+
+  <p>
+    <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://github.com/Aadith47"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  </p>
+</div>
+
+---
+
+### 📊 Analytics & Dev Activity
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">📈 Dev Stats</h3>
+      <!-- Dynamic SVG generated via GitHub Actions (lowlighter/metrics) -->
+      <a href="https://github.com/Aadith47">
+        <img src="./github-metrics-commits-hour.svg" alt="Commits per hour UTC +5:30" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ Recent Activity</h3>
+      <a href="https://github.com/Aadith47">
+        <img src="https://github-readme-stats.vercel.app/api?username=Aadith47&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ ChargeWise AI</h4>
+      <p>Electric Vehicle smart trip planner combining a physics energy baseline model with residual ML error-correction (Random Forest / XGBoost) to predict segment consumption across variable elevations.</p>
+      <p>
+        <code>Python</code> <code>XGBoost</code> <code>Scikit-Learn</code> <code>Open Charge Map</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔍 <a href="https://github.com/Aadith47/chithram-finder">Chithram Finder</a></h4>
+      <p>Visual search engine querying Pexels, Unsplash, and Pixabay concurrently with automated LangGraph orchestrations and LLM-based relevance reranking.</p>
+      <p>
+        <code>LangGraph</code> <code>LangChain</code> <code>Streamlit</code> <code>Python</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛡️ Arogya Abhaya</h4>
+      <p>Digital healthcare web portal providing integrated health services, real-time consultation access, and patient records management.</p>
+      <p>
+        <code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Express</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💙 Emoticare</h4>
+      <p>Emotion analysis and mental well-being platform designed to detect sentiment patterns and provide responsive wellness interventions.</p>
+      <p>
+        <code>Python</code> <code>NLP</code> <code>MERN</code> <code>FastAPI</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1033,100:6d28d9&height=180&section=header&text=Hi,%20I'm%20Aadith&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=AI/ML%20Engineer&descSize=20&descAlignY=62" width="100%" />
-
-<!-- Typing text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Turning+data+into+smart+systems;Building+with+Python+and+AI;Learning+something+new+every+day" alt="Typing text" />
+| Area | Technologies |
+| :--- | :--- |
+| **Languages** | Python, JavaScript, SQL, HTML/CSS |
+| **AI / Machine Learning** | LangGraph, LangChain, Scikit-learn, XGBoost, RAG Pipelines, ChromaDB |
+| **Web & App Frameworks** | Streamlit, React.js, Node.js, Express.js |
+| **Databases & Vector Stores** | ChromaDB, MongoDB, PostgreSQL |
+| **Developer Tools** | VS Code, Git / GitHub, PowerShell, Linux |
 
 </div>
 
 ---
 
-## 👋 Get To Know Me
-
-I’m an Information Technology graduate focused on turning LLMs, retrieval pipelines, and agentic workflows into practical, production-ready applications. I enjoy designing systems that can reason over data, use tools, and solve real problems—not just generate text.
-
-Currently exploring Generative AI, RAG architectures, AI agents, and intelligent workflow automation, with a strong foundation in Machine Learning and Deep Learning.
-
-### 🔥 Highlights
-
-🎓 B.Tech in Information Technology — Government Engineering College Idukki
-
-💼 Data Science / Gen AI Intern @ Bluefoxlabs | MERN Stack + AI Intern @ Hexinox
-
-🧠 Specializing in: LLM applications, RAG, AI agents, ML & Deep Learning
-
-🛠️ Engineering with: Python, FastAPI, AWS, Docker, MERN
-
-🎯 Open to: AI/ML Engineer and Software Engineer roles
-
----
-
-<!-- Commit Graph (left) and Tech Stack (right) -->
-<table align="center">
-  <tr>
-    <td width="420" align="center" valign="top">
-      <h2 align="left">📊 Commit Activity</h2>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadith47&bg_color=0D1117&color=A78BFA&line=6D28D9&point=FFFFFF&area=true&area_color=6D28D9&hide_border=true&hide_title=true" alt="Aadith's Commit Graph" width="400" />
-    </td>
-    <td width="420" align="center" valign="top">
-      <h2 align="left">⚡ Built With</h2>
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="52" alt="Python" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="52" alt="PyTorch" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="52" alt="TensorFlow" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="52" alt="scikit-learn" />
-        <br/><br/>
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="52" alt="Hugging Face" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="52" alt="Docker" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=git&theme=dark" width="52" alt="Git" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="52" alt="AWS" />
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <sub>Generated automatically with GitHub Actions & SVG Metrics • Hosted on GitHub</sub>
+</div>
