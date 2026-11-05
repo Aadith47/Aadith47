@@ -35,11 +35,15 @@ Currently exploring Generative AI, RAG architectures, AI agents, and intelligent
   <tr>
     <td width="420" align="center" valign="top">
       <h2 align="left"> 📈 Dev Stats</h2>
-      <a href="https://github.com/aadith47">
-        <img src="./github-metrics-commits-hour.svg" alt="Commits per hour UTC +5:30" width="100%" />
-      </a>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=aadith47&hide_border=true&background=0D1117&stroke=6D28D9&ring=A78BFA&fire=A78BFA&currStreakNum=FFFFFF&sideNums=A78BFA&currStreakLabel=A78BFA&sideLabels=FFFFFF&dates=9CA3AF" alt="GitHub Streak" width="400" />
     </td>
     <td width="420" align="center" valign="top">
       <h2 align="left">⚡ Built With</h2>
       <p align="center">
-        <img src
+        <img src="https://skillicons.dev/icons?i=python&theme=dark" width="52" alt="Python" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="52" alt="PyTorch" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="52" alt="TensorFlow" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="52" alt="scikit-learn" />
+        <br/><br/>
+        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="52" alt="Hugging Face" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=docker&theme=dark" width="52" alt="Docker" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=git&theme=dark" width="52" alt="Git" />&emsp;&emsp;&emsp;<img src="https://skillicons.dev/icons?i=aws&theme=dark" width="52" alt="AWS" />
+      </p>
+    </td>
+  </tr>
+</table>
