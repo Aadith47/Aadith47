@@ -1,10 +1,10 @@
 <!-- ===== HEADER ===== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#837c83&height=180&section=header&text=Hi,%20I'm%20Aadith&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=AI/ML%20Engineer&descSize=20&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=180&section=header&text=Hi,%20I'm%20Aadith&fontColor=ffffff&fontSize=42&fontAlignY=40&desc=AI/ML%20Engineer&descSize=20&descAlignY=62" width="100%" />
 
 <!-- Typing text -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=#837c83&center=true&vCenter=true&width=500&lines=Turning+data+into+smart+systems;Building+with+Python+and+AI;Learning+something+new+every+day" alt="Typing text" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Turning+data+into+smart+systems;Building+with+Python+and+AI;Learning+something+new+every+day" alt="Typing text" />
 
 </div>
 
